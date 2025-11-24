@@ -5,14 +5,14 @@ The circuit efficiently steps down a higher DC voltage to a lower, adjustable ou
 
 ---
 
-## 📘 Overview
+##  Overview
 
 The LM2596 is a popular high-efficiency buck regulator capable of delivering up to **3A** output current.  
 This design includes input/output filtering, a Schottky diode for fast switching, an adjustable feedback network, and an enable pin for power control.
 
 ---
 
-## 🔧 Circuit Description
+##  Circuit Description
 
 ### **Main Components**
 
@@ -48,7 +48,7 @@ This design includes input/output filtering, a Schottky diode for fast switching
 
 ---
 
-## ⚡ How the Circuit Works
+##  How the Circuit Works
 
 1. DC input enters through **P1**.  
 2. LM2596 switches internally at high frequency to step down voltage.  
@@ -61,17 +61,16 @@ This design includes input/output filtering, a Schottky diode for fast switching
 
 ## 📷 Schematic
 
-![LM2596 Buck Converter Schematic](b0eb40a3-f77d-4322-84c1-175d6f82afe7.png)
+![LM2596 Buck Converter Schematic](<img width="645" height="361" alt="image" src="https://github.com/user-attachments/assets/e8b57a35-5327-4445-aff9-cb3dddfa58f5" />
+)
 
 ---
 
-## 📝 Features
+##  Features
 
 - Adjustable output voltage  
 - High efficiency switching regulator  
-- Low-loss Schottky diode  
 - Large filtering capacitors  
-- Enable pin for power management  
 - Suitable for up to **3A** loads (depending on cooling)
 
 ---
@@ -80,7 +79,6 @@ This design includes input/output filtering, a Schottky diode for fast switching
 
 - Battery-powered devices  
 - Robotics and embedded systems  
-- LED drivers  
 - DIY power supplies  
 - Microcontroller projects
 
