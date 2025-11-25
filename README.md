@@ -56,13 +56,21 @@ This design includes input/output filtering, a Schottky diode for fast switching
 4. **R1 + R2** feed back a fraction of the output voltage to the FB pin to regulate the output.  
 5. **C1 and C2** filter both input and output to minimize ripple.  
 6. Regulated output is available through **P2**.
+ ---
+
+##  Schematic
+
+[LM2596 Buck Converter Schematic]<img width="893" height="457" alt="Picture6" src="https://github.com/user-attachments/assets/4b4e782b-c5fe-4525-a4d9-bfe716588907" />
+
 
 ---
 
-## 📷 Schematic
+---
 
-![LM2596 Buck Converter Schematic](<img width="645" height="361" alt="image" src="https://github.com/user-attachments/assets/e8b57a35-5327-4445-aff9-cb3dddfa58f5" />
-)
+##  Working
+
+[imgonline-com-ua-twotoone-R6YRTuwlLy](https://github.com/user-attachments/assets/38ffd4b8-3b81-48aa-ae07-edaade04deba)
+
 
 ---
 
@@ -75,7 +83,7 @@ This design includes input/output filtering, a Schottky diode for fast switching
 
 ---
 
-## 📦 Applications
+##  Applications
 
 - Battery-powered devices  
 - Robotics and embedded systems  
