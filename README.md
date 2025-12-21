@@ -1,13 +1,13 @@
 # LM2596 Adjustable Buck Converter
 
-This repository contains the schematic for an **adjustable DC-DC buck converter** based on the **LM2596HVT-ADJ** switching regulator.  
+This repository contains the schematic for an **adjustable DC-DC buck converter** based on the **LM2596HVT ADJ** switching regulator.  
 The circuit efficiently steps down a higher DC voltage to a lower, adjustable output voltage.
 
 ---
 
 ##  Overview
 
-The LM2596 is a popular high-efficiency buck regulator capable of delivering up to **3A** output current.  
+The LM2596 is a popular high efficiency buck regulator capable of delivering up to **3A** output current.  
 This design includes input/output filtering, a Schottky diode for fast switching, an adjustable feedback network, and an enable pin for power control.
 
 ---
@@ -86,7 +86,7 @@ This design includes input/output filtering, a Schottky diode for fast switching
 
 ##  Applications
 
-- Battery-powered devices  
+- Battery powered devices  
 - Robotics and embedded systems  
 - DIY power supplies  
 - Microcontroller projects
